@@ -1,0 +1,1 @@
+#este archivo init debe utilzarse como un indice
